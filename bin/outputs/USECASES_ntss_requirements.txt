@@ -1,0 +1,4 @@
+Subject: system - Verb: from - Object: submit
+Subject: participant - Verb: from - Object: list
+Subject: participant - Verb: from - Object: interest
+Subject: participant - Verb: from - Object: event
